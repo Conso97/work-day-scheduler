@@ -13,7 +13,7 @@ Complete the building of a user friendly calendar application that allows the ad
 
 In this activity I learnt:
 
-* How to start HW assignemnets; step by step breaking down of the acceptance criteria and the importance od commenting especially after teh code has been erased and you cannot remeber what you wanted to add. 
+* The step by step breaking down method of the acceptance criteria on HW assignment and the importance of commenting especially after the code has been erased and you cannot remember what was on the code line previously.
 
 * The importance of stackoverflow when trying to figure out what the inspect mistake made means/wants you to correct what you need fixed. 
 

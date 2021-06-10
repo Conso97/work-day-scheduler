@@ -23,7 +23,7 @@ In this activity I learnt:
 
 * How to implement jQuery UI to make a webpage more user-friendly.
 
-https://conso97.github.io/med-quiz/
+https://conso97.github.io/work-day-scheduler/
 
 <img id="styledImage"
     src="work-day-scheduler.jpg" width="70%" height="70%"
